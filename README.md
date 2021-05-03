@@ -15,6 +15,7 @@ Zu guter Letzt sollt ihr nun noch einen Comparator erstellen und einmal einsetze
 Eine Beispiel-Textdatei findet ihr hier in der Musterlösung *scanThis_Kafka.txt*. Die beinhaltet genau 498 Wörter. Euch ist aber freigestellt eure eigene Datei zu erstellen. 
 
 Tipp: Wenn jemand mit Regex arbeiten will findet unten eine kleine Einleitung und hier ist der Ausdruck, um alle Satzzeichen und leerzeichen zu entfernen "[^a-zA-Z 0-9]"
+Erfindet das Rad auch nicht neu. Ihr habt bereits mit IO gearbeitet. Klaut euch den Code und passt es an eure jetzigen Bedürfnisse an.
 
 Ihr könntet auch noch weitergehen und eine Liste aus einzigartigen Wörtern zu machen. Dafür gibt es auch diverse Wege. Ich lasse aber erstmal außen vor, aber wenn jemand Lust hat, nur zu.
 
