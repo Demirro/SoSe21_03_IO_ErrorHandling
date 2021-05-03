@@ -12,7 +12,7 @@ Erstellt eine Klasse Namens FileScanner. Diese soll nur eine statische Methode b
 In eurer Main-Methode könnt ihr das testen indem ihr beispielsweise die Wörter der Liste zählt/ausgibt, die Liste anzeigt o.ä.
 Zu guter Letzt sollt ihr nun noch einen Comparator erstellen und einmal einsetzen, mit welchem ihr eure tolle neue Liste sortieren könnt. Die natürliche Reihenfolge von Strings ist ja alphabetisch, also versucht eine andere halbwegs sinnvolle Sortierung zu nehmen. Länge des Wortes oder von mir auch was verrückt wie Anzahl and Vokalen oder sowas. 
 
-Eine Beispiel-Textdatei findet ihr hier in der Musterlösung *scanThis_Kafka.txt*.
+Eine Beispiel-Textdatei findet ihr hier in der Musterlösung *scanThis_Kafka.txt*. Die beinhaltet genau 498 Wörter. Euch ist aber freigestellt eure eigene Datei zu erstellen. 
 
 Tipp: Wenn jemand mit Regex arbeiten will findet unten eine kleine Einleitung und hier ist der Ausdruck, um alle Satzzeichen und leerzeichen zu entfernen "[^a-zA-Z 0-9]"
 
